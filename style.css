@@ -39,6 +39,8 @@ body{
 .box img{
     max-width: 3rem;
     max-height: 3rem;
+    margin-top: 10px;
+    margin-bottom: 50px;
 }
 
 
