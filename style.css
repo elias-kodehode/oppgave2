@@ -59,7 +59,7 @@ body{
 }
 
 
-.box a{
+.box a.button{
     text-decoration: none;
     background-color: var(--very-light-gray);
     border-radius: 30px;
